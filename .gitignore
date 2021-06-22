@@ -7,3 +7,4 @@ test.md
 bin/*
 
 _book/*
+node_modules/*
